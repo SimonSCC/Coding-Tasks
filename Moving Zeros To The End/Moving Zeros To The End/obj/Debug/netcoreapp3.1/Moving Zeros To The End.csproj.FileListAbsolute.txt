@@ -1,0 +1,13 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\bin\Debug\netcoreapp3.1\Moving Zeros To The End.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\bin\Debug\netcoreapp3.1\Moving Zeros To The End.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\bin\Debug\netcoreapp3.1\Moving Zeros To The End.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\bin\Debug\netcoreapp3.1\Moving Zeros To The End.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\bin\Debug\netcoreapp3.1\Moving Zeros To The End.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\bin\Debug\netcoreapp3.1\Moving Zeros To The End.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\netcoreapp3.1\Moving Zeros To The End.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\netcoreapp3.1\Moving Zeros To The End.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\netcoreapp3.1\Moving Zeros To The End.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\netcoreapp3.1\Moving Zeros To The End.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\netcoreapp3.1\Moving Zeros To The End.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\netcoreapp3.1\Moving Zeros To The End.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\netcoreapp3.1\Moving Zeros To The End.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\bin\Debug\netcoreapp3.1\Day 9 Enconding Error.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\bin\Debug\netcoreapp3.1\input.txt
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\bin\Debug\netcoreapp3.1\Day 9 Enconding Error.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\bin\Debug\netcoreapp3.1\Day 9 Enconding Error.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\bin\Debug\netcoreapp3.1\Day 9 Enconding Error.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\bin\Debug\netcoreapp3.1\Day 9 Enconding Error.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\bin\Debug\netcoreapp3.1\Day 9 Enconding Error.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\obj\Debug\netcoreapp3.1\Day 9 Enconding Error.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\obj\Debug\netcoreapp3.1\Day 9 Enconding Error.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\obj\Debug\netcoreapp3.1\Day 9 Enconding Error.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\obj\Debug\netcoreapp3.1\Day 9 Enconding Error.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\obj\Debug\netcoreapp3.1\Day 9 Enconding Error.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\obj\Debug\netcoreapp3.1\Day 9 Enconding Error.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\obj\Debug\netcoreapp3.1\Day 9 Enconding Error.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day 9 Enconding Error\Day 9 Enconding Error\bin\Debug\netcoreapp3.1\test.txt

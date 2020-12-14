@@ -1,0 +1,13 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\bin\Debug\netcoreapp3.1\DetectPangram.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\bin\Debug\netcoreapp3.1\DetectPangram.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\bin\Debug\netcoreapp3.1\DetectPangram.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\bin\Debug\netcoreapp3.1\DetectPangram.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\bin\Debug\netcoreapp3.1\DetectPangram.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\bin\Debug\netcoreapp3.1\DetectPangram.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\obj\Debug\netcoreapp3.1\DetectPangram.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\obj\Debug\netcoreapp3.1\DetectPangram.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\obj\Debug\netcoreapp3.1\DetectPangram.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\obj\Debug\netcoreapp3.1\DetectPangram.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\obj\Debug\netcoreapp3.1\DetectPangram.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\obj\Debug\netcoreapp3.1\DetectPangram.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\DetectPangram\DetectPangram\obj\Debug\netcoreapp3.1\DetectPangram.genruntimeconfig.cache

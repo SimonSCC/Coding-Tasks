@@ -1,0 +1,14 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\bin\Debug\netcoreapp3.1\pass.txt
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.genruntimeconfig.cache

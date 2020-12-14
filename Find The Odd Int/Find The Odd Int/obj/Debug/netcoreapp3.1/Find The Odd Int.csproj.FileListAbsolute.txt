@@ -1,0 +1,13 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\obj\Debug\netcoreapp3.1\Find The Odd Int.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\obj\Debug\netcoreapp3.1\Find The Odd Int.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\obj\Debug\netcoreapp3.1\Find The Odd Int.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\obj\Debug\netcoreapp3.1\Find The Odd Int.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\bin\Debug\netcoreapp3.1\Find The Odd Int.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\bin\Debug\netcoreapp3.1\Find The Odd Int.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\bin\Debug\netcoreapp3.1\Find The Odd Int.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\bin\Debug\netcoreapp3.1\Find The Odd Int.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\bin\Debug\netcoreapp3.1\Find The Odd Int.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\bin\Debug\netcoreapp3.1\Find The Odd Int.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\obj\Debug\netcoreapp3.1\Find The Odd Int.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\obj\Debug\netcoreapp3.1\Find The Odd Int.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Find The Odd Int\Find The Odd Int\obj\Debug\netcoreapp3.1\Find The Odd Int.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\bin\Debug\netcoreapp3.1\PersistentBugger.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\bin\Debug\netcoreapp3.1\PersistentBugger.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\bin\Debug\netcoreapp3.1\PersistentBugger.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\bin\Debug\netcoreapp3.1\PersistentBugger.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\bin\Debug\netcoreapp3.1\PersistentBugger.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\bin\Debug\netcoreapp3.1\PersistentBugger.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\obj\Debug\netcoreapp3.1\PersistentBugger.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\obj\Debug\netcoreapp3.1\PersistentBugger.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\obj\Debug\netcoreapp3.1\PersistentBugger.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\obj\Debug\netcoreapp3.1\PersistentBugger.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\obj\Debug\netcoreapp3.1\PersistentBugger.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\obj\Debug\netcoreapp3.1\PersistentBugger.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PersistentBugger\PersistentBugger\obj\Debug\netcoreapp3.1\PersistentBugger.genruntimeconfig.cache

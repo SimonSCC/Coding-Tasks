@@ -1,0 +1,12 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition\bin\Debug\netcoreapp3.1\ReplaceWithAlphabetPosition.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition\bin\Debug\netcoreapp3.1\ReplaceWithAlphabetPosition.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition\bin\Debug\netcoreapp3.1\ReplaceWithAlphabetPosition.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition\bin\Debug\netcoreapp3.1\ReplaceWithAlphabetPosition.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition\bin\Debug\netcoreapp3.1\ReplaceWithAlphabetPosition.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition\bin\Debug\netcoreapp3.1\ReplaceWithAlphabetPosition.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphabetPosition.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphabetPosition.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphabetPosition.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphabetPosition.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphabetPosition.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphabetPosition.genruntimeconfig.cache

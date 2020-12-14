@@ -1,0 +1,13 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\bin\Debug\netcoreapp3.1\Jaden Casing Strings.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\bin\Debug\netcoreapp3.1\Jaden Casing Strings.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\bin\Debug\netcoreapp3.1\Jaden Casing Strings.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\bin\Debug\netcoreapp3.1\Jaden Casing Strings.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\bin\Debug\netcoreapp3.1\Jaden Casing Strings.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\bin\Debug\netcoreapp3.1\Jaden Casing Strings.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Jaden Casing Strings\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.genruntimeconfig.cache

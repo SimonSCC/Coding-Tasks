@@ -1,0 +1,13 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\bin\Debug\netcoreapp3.1\CodeWarsChallenges.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\bin\Debug\netcoreapp3.1\CodeWarsChallenges.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\bin\Debug\netcoreapp3.1\CodeWarsChallenges.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\bin\Debug\netcoreapp3.1\CodeWarsChallenges.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\bin\Debug\netcoreapp3.1\CodeWarsChallenges.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\bin\Debug\netcoreapp3.1\CodeWarsChallenges.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\netcoreapp3.1\CodeWarsChallenges.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\netcoreapp3.1\CodeWarsChallenges.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\netcoreapp3.1\CodeWarsChallenges.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\netcoreapp3.1\CodeWarsChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\netcoreapp3.1\CodeWarsChallenges.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\netcoreapp3.1\CodeWarsChallenges.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\CodeWars\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\netcoreapp3.1\CodeWarsChallenges.genruntimeconfig.cache

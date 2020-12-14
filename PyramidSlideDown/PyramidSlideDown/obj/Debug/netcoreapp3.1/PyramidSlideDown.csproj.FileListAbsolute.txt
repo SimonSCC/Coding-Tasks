@@ -1,0 +1,13 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\bin\Debug\netcoreapp3.1\PyramidSlideDown.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\bin\Debug\netcoreapp3.1\PyramidSlideDown.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\bin\Debug\netcoreapp3.1\PyramidSlideDown.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\bin\Debug\netcoreapp3.1\PyramidSlideDown.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\bin\Debug\netcoreapp3.1\PyramidSlideDown.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\bin\Debug\netcoreapp3.1\PyramidSlideDown.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\obj\Debug\netcoreapp3.1\PyramidSlideDown.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\obj\Debug\netcoreapp3.1\PyramidSlideDown.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\obj\Debug\netcoreapp3.1\PyramidSlideDown.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\obj\Debug\netcoreapp3.1\PyramidSlideDown.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\obj\Debug\netcoreapp3.1\PyramidSlideDown.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\obj\Debug\netcoreapp3.1\PyramidSlideDown.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\PyramidSlideDown\PyramidSlideDown\obj\Debug\netcoreapp3.1\PyramidSlideDown.genruntimeconfig.cache

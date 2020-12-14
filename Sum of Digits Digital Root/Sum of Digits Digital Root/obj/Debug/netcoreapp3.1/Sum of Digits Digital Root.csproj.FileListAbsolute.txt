@@ -1,0 +1,13 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits Digital Root.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits Digital Root.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits Digital Root.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits Digital Root.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits Digital Root.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits Digital Root.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Sum of Digits Digital Root\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.genruntimeconfig.cache

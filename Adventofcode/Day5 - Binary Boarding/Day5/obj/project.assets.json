@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day5\\Day5\\Day5.csproj",
+      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day5 - Binary Boarding\\Day5\\Day5.csproj",
       "projectName": "Day5",
-      "projectPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day5\\Day5\\Day5.csproj",
+      "projectPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day5 - Binary Boarding\\Day5\\Day5.csproj",
       "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day5\\Day5\\obj\\",
+      "outputPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day5 - Binary Boarding\\Day5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

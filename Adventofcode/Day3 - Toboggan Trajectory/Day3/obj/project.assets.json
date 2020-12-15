@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day3\\Day3\\Day3.csproj",
+      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day3 - Toboggan Trajectory\\Day3\\Day3.csproj",
       "projectName": "Day3",
-      "projectPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day3\\Day3\\Day3.csproj",
+      "projectPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day3 - Toboggan Trajectory\\Day3\\Day3.csproj",
       "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day3\\Day3\\obj\\",
+      "outputPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day3 - Toboggan Trajectory\\Day3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day6\\Day6\\Day6.csproj": {}
+    "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day6 - Custom Customs\\Day6\\Day6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day6\\Day6\\Day6.csproj": {
+    "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day6 - Custom Customs\\Day6\\Day6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day6\\Day6\\Day6.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day6 - Custom Customs\\Day6\\Day6.csproj",
         "projectName": "Day6",
-        "projectPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day6\\Day6\\Day6.csproj",
+        "projectPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day6 - Custom Customs\\Day6\\Day6.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day6\\Day6\\obj\\",
+        "outputPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day6 - Custom Customs\\Day6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,0 +1,15 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\bin\Debug\netcoreapp3.1\Day11.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\bin\Debug\netcoreapp3.1\test.txt
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\bin\Debug\netcoreapp3.1\Day11.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\bin\Debug\netcoreapp3.1\Day11.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\bin\Debug\netcoreapp3.1\Day11.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\bin\Debug\netcoreapp3.1\Day11.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\bin\Debug\netcoreapp3.1\Day11.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\obj\Debug\netcoreapp3.1\Day11.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\obj\Debug\netcoreapp3.1\Day11.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\obj\Debug\netcoreapp3.1\Day11.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\obj\Debug\netcoreapp3.1\Day11.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\obj\Debug\netcoreapp3.1\Day11.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\obj\Debug\netcoreapp3.1\Day11.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\obj\Debug\netcoreapp3.1\Day11.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Konsol\CodeWars\Adventofcode\Day11 - Seating System\Day11\bin\Debug\netcoreapp3.1\input.txt

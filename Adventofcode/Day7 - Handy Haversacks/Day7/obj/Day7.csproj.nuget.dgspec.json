@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day7\\Day7\\Day7.csproj": {}
+    "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day7 - Handy Haversacks\\Day7\\Day7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day7\\Day7\\Day7.csproj": {
+    "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day7 - Handy Haversacks\\Day7\\Day7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day7\\Day7\\Day7.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day7 - Handy Haversacks\\Day7\\Day7.csproj",
         "projectName": "Day7",
-        "projectPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day7\\Day7\\Day7.csproj",
+        "projectPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day7 - Handy Haversacks\\Day7\\Day7.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day7\\Day7\\obj\\",
+        "outputPath": "C:\\Users\\Simon\\Desktop\\Code\\Skole År 2\\C#\\Konsol\\CodeWars\\Adventofcode\\Day7 - Handy Haversacks\\Day7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

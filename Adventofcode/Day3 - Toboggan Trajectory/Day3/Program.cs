@@ -33,15 +33,15 @@ namespace Day3
             }
             //Below is to write 
 
-            //for (int x = 0; x < stringLines.Length; x++)
-            //{
-            //    for (int i = 0; i < stringLines[x].Length; i++)
-            //    {
-            //        Console.Write(charArr[x, i]);
-            //    }
-            //    Console.WriteLine();
-            //}
-            //Console.WriteLine();
+            for (int x = 0; x < stringLines.Length; x++)
+            {
+                for (int i = 0; i < stringLines[x].Length; i++)
+                {
+                    Console.Write(charArr[x, i]);
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
 
             int countOfTrees31 = 0;
             int xArr = 0;

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Day1SonarSweep
+build_property.ProjectDir = C:\Users\Simon\Desktop\Code\SchoolYear2\C#\Konsol\CodeWars\AdventOfCode2021\Day1SonarSweep\Day1SonarSweep\
